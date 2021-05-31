@@ -1,8 +1,5 @@
 # BERT and SpanBERT for Coreference Resolution in Russian medical forums 
 
-This repository contains code and models for BS thesis 
-written by Egor Yatsishin, Moscow, NRU HSE, Fundamental and Computational Linguistics, 2021.
-
 This work describes the first coreference resolution system for Russian medical forum data
 based on transformer architecture. To get the understanding of the data we did some preparatory
 work: around 700 of messages from different forums and social networks were read and typical
