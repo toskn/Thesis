@@ -26,6 +26,8 @@ The above mentioned notebooks are made in such a way that represent a complete p
 Current average scores achieved by the model are relatively low due to the model being based on `bert-cased-base` tokenization and vocabulary.
 The major park of future work is the implementation of `rubert` to the initial model training.
 
+If a file in the repository is empty or some cells in the code are cleared that is due to NDA with Semantic Hub.
+
 ## Setup
 * Install python3 requirements: `pip install -r requirements.txt`
 * `import os os.environ['data_dir'] = "./data"`
