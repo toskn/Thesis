@@ -121,5 +121,5 @@ Corpus from [RuCor](http://rucoref.maimbava.net/) and script to convert it to Co
 [`setup_all.sh`](/setup_all.sh):
 * fix by removing `-D_GLIBCXX_USE_CXX11_ABI=0` flag
 
-[`./setup_training.sh`](/setup_all.sh):
+[`./setup_training.sh`](/setup_training.sh):
 * modified for use on custom documents and without OntoNotes
