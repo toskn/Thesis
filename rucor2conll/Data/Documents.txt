@@ -1,0 +1,182 @@
+doc_id	path	url	title
+1	fiction/102_beliajev_nad_bezdnoj.txt	http://lib.ru/RUFANT/BELAEW/bezdna.txt_with-big-pictures.html#1	
+2	fiction/107_dragunsky_volshebnaja_sila_iskusstva.txt	http://lib.ru/PRIKL/DRAGUNSKIJ/sila.txt_with-big-pictures.html	Волшебная сила искусства
+3	fiction/15_paustovsky_zhilcy_starogo_doma.txt	http://lib.ru/PROZA/PAUSTOWSKIJ/r_bakenshik.txt	
+5	fiction/2_astafiev_zhizn_prozhit.txt	http://lib.ru/PROZA/ASTAFIEW/r_life.txt	
+6	fiction/30_dojl_sluchaj.txt	http://lib.ru/AKONANDOJL/ledi.txt	
+7	fiction/34_kassil_solnce_svetit.txt	http://lib.ru/PROZA/KASSIL/portret.txt_with-big-pictures.html	
+8	fiction/43_musatov_stozhary.txt	http://lib.ru/PROZA/MUSATOW/stozhary.txt	
+9	fiction/44_nagibin_siren.txt	http://lib.ru/PROZA/NAGIBIN/r_siren.txt	
+10	fiction/53_beliajev_dom_s_prividenijami.txt	http://lib.ru/PROZA/BELYAEW_W/fort2.txt_with-big-pictures.html	
+11	fiction/5_petrushevskaya_v_detstve.txt	http://lib.ru/PROZA/PETRUSHEWSKAYA/r_w_detstwe.txt	
+12	fiction/67_zamiatin_kolumb.txt	http://az.lib.ru/z/zamjatin_e_i/text_1918_kolumb.shtml	
+13	fiction/73_ilf_schastlivy_otec.txt	http://lib.ru/ILFPETROV/ilf_stories.txt_with-big-pictures.html	
+15	fiction/andersen_motylek.txt	http://az.lib.ru/a/andersen_g_h/text_1100.shtml	
+16	fiction/bazhov_travyanaja_zapadenka.txt	http://lib.ru/TALES/BAZHOV/skazki1.txt	
+17	fiction/bunin_skazka.txt	http://az.lib.ru/b/bunin_i_a/text_1650.shtml	
+18	fiction/dostojevskij_podrostok.txt	http://az.lib.ru/d/dostoewskij_f_m/text_0090.shtml	
+19	fiction/dovlatov_kompromiss_6.txt	http://lib.ru/DOWLATOW/kompromiss.txt	
+20	fiction/fet_knyaginya.txt	http://az.lib.ru/f/fet_a_a/text_0190.shtml	
+21	fiction/gilyarovskij_moi_skitanija.txt	http://lib.ru/RUSSLIT/GILQROWSKIJ/skitania.txt	
+22	fiction/gogol_zapiski_3.txt	http://az.lib.ru/g/gogolx_n_w/text_0130.shtml	
+23	fiction/harms_upadanije.txt	http://lib.ru/HARMS/xarms_prose.txt	
+24	fiction/korolenko_mgnovenije.txt	http://lib.ru/RUSSLIT/KOROLENKO/mgnoven.txt	
+28	fiction/turgenev_veshnije_vody.txt	http://az.lib.ru/t/turgenew_i_s/text_0140.shtml	
+30	Lenta/2013_04_11_dotless_.txt	http://lenta.ru/news/2013/04/11/dotless	
+41	Lenta/2013_07_31_krebs_.txt	http://lenta.ru/news/2013/07/31/krebs	
+51	Lenta/lenta.ru-news-2014-01-19-cutshort.txt	http://lenta.ru/news/2014/01/19/cutshort/	
+52	Lenta/lenta.ru-news-2014-01-24-if.txt	http://lenta.ru/news/2014/01/24/if/	
+53	Lenta/lenta.ru-news-2014-01-30-crimea.txt	http://lenta.ru/news/2014/01/30/crimea/	
+54	Lenta/lenta.ru-news-2014-02-03-capitanic.txt	http://lenta.ru/news/2014/02/03/capitanic/	
+55	Lenta/lenta.ru-news-2014-02-03-london.txt	http://lenta.ru/news/2014/02/03/london/	
+56	Lenta/lenta.ru-news-2014-02-03-name1.txt	http://lenta.ru/news/2014/02/03/name1/	
+57	Lenta/lenta.ru-news-2014-02-03-rucksack.txt	http://lenta.ru/news/2014/02/03/rucksack/	
+58	Lenta/lenta.ru-news-2014-02-04-party.txt	http://lenta.ru/news/2014/02/04/party/	
+59	Lenta/lenta.ru-news-2014-02-04-pyramid.txt	http://lenta.ru/news/2014/02/04/pyramid/	
+60	OpenCorpora/448-done.txt	нет	
+61	OpenCorpora/516-done.txt	нет	
+62	OpenCorpora/540-done.txt	нет	
+63	OpenCorpora/554-done.txt	нет	
+64	OpenCorpora/559-done.txt	нет	
+65	OpenCorpora/675-done.txt	нет	
+66	OpenCorpora/682-done.txt	нет	
+67	OpenCorpora/689-done.txt	нет	
+68	OpenCorpora/789-done.txt	нет	
+69	OpenCorpora/833-done.txt	нет	
+70	OpenCorpora/842-done.txt	нет	
+71	OpenCorpora/850-done.txt	нет	
+72	OpenCorpora/870-done.txt	нет	
+73	OpenCorpora/890-done.txt	нет	
+74	OpenCorpora/895-done.txt	нет	
+75	OpenCorpora/908-done.txt	нет	
+76	OpenCorpora/921-done.txt	нет	
+77	OpenCorpora/992-done.txt	нет	
+78	Science/09Jan2014_bloomberg_sleep.html.txt	см. Description.txt	
+80	fiction/strugackije_ponedelnik.txt		
+81	News/2009-abbas5_ru.txt		
+82	News/2009-abbas6_ru.txt		
+83	News/2009-abbas7_ru.txt		
+84	News/2009-abusada7_ru.txt		
+85	News/2009-ahtisaari3_ru.txt		
+86	News/2009-annan2_ru.txt		
+87	News/2009-annan3_ru.txt		
+88	News/2009-aslund24_ru.txt		
+89	News/2009-asteiner3_ru.txt		
+90	News/2009-asteiner5_ru.txt		
+91	News/2009-avineri35_ru.txt		
+92	News/2009-bakker3_ru.txt		
+93	News/2009-bakker4_ru.txt		
+94	News/2009-baradei1_ru.txt		
+95	News/2009-barbarosie1_ru.txt		
+96	News/2009-barnett1_ru.txt		
+97	News/2009-barroso1_ru.txt		
+98	News/2009-barroso3_ru.txt		
+99	News/2009-beasley1_ru.txt		
+100	News/2009-bebchuk1_ru.txt		
+111	OpenCorpora/347-done.txt		
+112	OpenCorpora/388-done.txt		
+113	Otzyvy/www.turpravda.ru-gr-halkidiki-Potidea_Palace-h13681-r59401.txt		
+114	Otzyvy/www.turpravda.ru-gr-halkidiki-Potidea_Palace-h13681-r67576.txt		
+115	Otzyvy/www.turpravda.ru-gr-halkidiki-Potidea_Palace-h13681-r68708.txt		
+116	Otzyvy/www.turpravda.ru-gr-halkidiki-Potidea_Palace-h13681-r69802.txt		
+117	Otzyvy/www.turpravda.ru-gr-halkidiki-Potidea_Palace-h13681-r72202.txt		
+118	PhotoDescr/PhotoDescr1.txt		
+119	PhotoDescr/PhotoDescr11.txt		
+120	PhotoDescr/PhotoDescr15.txt		
+131	Science/nauka i zhizn_mars.txt	http://www.nkj.ru/archive/articles/21680/	
+132	Science/nauka i zhizn_pererabotka.txt	http://www.nkj.ru/open/23369/	
+133	Science/philology.ru-linguistics1-alpatov-12-out2.txt		
+134	Science/philology.ru-linguistics1-barannikov-46-out2.txt		
+202	OFC/2.txt		«Школа злословия» учит прикусить язык Сохранится ли градус дискуссии в новом сезоне?
+203	OFC/3.txt		«Последнее восстание» в Сеуле Международная биеннале медиаискусства
+204	OFC/4.txt		За кота – ответишь! Дэвид Лисс, популярный автор исторических детективов, впервые обратился к современности. И зря…
+205	OFC/5.txt		Быстротечный кинороман Отечественные кинематографисты не оставляют попыток снимать романтическое кино. Иногда у них это получается
+207	OFC/7.txt		Рецессия в Латвии и Эстонии Тяжелые времена для Восточной Европы
+209	OFC/9.txt		100 дней Обамы: iТоги Что успел сделать за 100 дней самый «технологичный» президент США
+210	OFC/10.txt		100 миллиардов может и не хватить Правительство помогает регионам, а они жалуются
+211	OFC/11.txt		100 тысяч заложников АвтоВАЗа Госпомощь АвтоВАЗу оказывается рыбой, а не удочкой
+212	OFC/12.txt		10 лет преступной ошибке Юбилей «гуманитарной интервенции»
+215	OFC/15.txt		120 тысяч за фотографию Дело Саввы Терентьева продолжают обиженные барышни
+219	OFC/19.txt		Пейзаж, нарисованный Павичем
+251	OFC/51.txt		
+252	OFC/52.txt		40 дней печатной прессы После появления iPad СМИ уже некуда отступать
+253	OFC/53.txt		
+254	OFC/54.txt		3 в 1. Жажда Просто добавь воды: накануне годовщины Цхинвала ТВ во всю обсуждает питьевые ресурсы
+255	OFC/55.txt		44-й, пошел! Обамомания шагает по планете
+257	OFC/57.txt		С последнего альбома Rammstein сняты все запреты
+264	OFC/64.txt		24 марта 2009 года : где дно ? Доллар падает на ожидании эмиссии от ФРС
+265	OFC/65.txt		Даже не думай Астропрогноз на 6 — 12 сентября
+266	OFC/66.txt		52 героя от стартапов В Сан-Франциско прошел смотр интернет-проектов
+267	OFC/67.txt		70 лет ещё не срок «Часкор» разбирался в тонкостях авторского права
+268	OFC/68.txt		
+269	OFC/69.txt		Подвески королевы В Великобритании состоялись парламентские выборы
+270	OFC/70.txt		80 лет национальной трагедии «И вот от их домушки до следующего дома моё детство кончилось, я плакал кровью»
+271	OFC/71.txt		80 млн интернетчиков — к концу 2014 года ФОМ исследовал распространение интернета в России
+272	OFC/72.txt		8 Марта как Юрьев день Не дарите мне цветы ! ( Почему я не люблю 8 Марта )
+275	OFC/75.txt		Анастасия Львова: «Википедия» по-русски перейдет на СС вместе с остальными языковыми разделами проекта» «Википедия» обещает свободный текст уже в этом году
+277	OFC/77.txt		
+279	OFC/79.txt		
+280	OFC/80.txt		Адаптация в Эквадоре Взгляд из русской диаспоры
+282	OFC/82.txt		
+288	OFC/88.txt		А Гордон все-таки не Кихот Ток-шоу « Гордон Кихот » расписалось в искренней преданности гламуру . Репортаж со съемок
+290	OFC/90.txt		
+295	OFC/95.txt		Агония поместной Москвы Годами никто не желал понять , что Москва — субъект Федерации
+300	OFC/100.txt		
+301	OFC/101.txt		А кому книги по байтам ? Электронный вирус в сердце ММКВЯ
+302	OFC/102.txt		Альдо Нове . No future XXI века Только в « Часкоре » : лидер « юных людоедов » удивил всех , собрав коллекцию бесед с « новыми бедными »
+303	OFC/103.txt		Эдгар По. Гений открытия 19 января 1809 года родился Эдгар Алан По
+306	OFC/106.txt		
+310	OFC/110.txt		Актуальность Дарвина 12 февраля 1809 года родился учёный, расколовший современную культуру
+311	OFC/111.txt		
+312	OFC/112.txt		Абхазский месяц август Семнадцать лет и один год
+313	OFC/113.txt		Абсолютное бесполезное оружие Ядерное оружие постепенно утрачивает смысл
+316	OFC/116.txt		Ад — это не Алла Алле Аллово ? ТВ перед Пасхой не канонизировало , но карнавализировало Пугачеву
+318	OFC/118.txt		
+319	OFC/119.txt		86 снов, вызванных полётом пчелы вокруг граната за секунду до пробуждения Рассказы каталонца Кима Мунзо — это как картины Сальвадора Дали, только в прозе
+320	OFC/120.txt		Абхазия, вернувшаяся из небытия
+321	OFC/121.txt		Абсурд, ещё абсурд Чего б ещё такого запретить, чтоб роль мою в борьбе со злом отметили потомки?
+322	OFC/122.txt		А бойтесь единственно только того , кто скажет : « Я знаю , как надо ! » Стивен Хант использует стилистику « парового панка » , для того чтобы поговорить об актуальных проблемах современности
+323	OFC/123.txt		
+324	OFC/124.txt		
+328	OFC/128.txt		
+330	OFC/130.txt		Айпадно! Реклама на iPad раскуплена до появления устройства на рынке
+332	OFC/132.txt		Адмирал с «Титаника»
+336	OFC/136.txt		Александр Гордон: «Я не такой умный, как кажусь» Из-за программы «Закрытый показ» врагов у ведущего становится всё больше и больше
+338	OFC/138.txt		Африканская дуга нестабильности « Чёрная Россия » как угроза региону
+339	OFC/139.txt		Аферисты в поисках безработных Рынок труда стал лотереей для лохов
+340	OFC/140.txt		Ах , какой был мужчина … От « Дракулы - 2000 » до « Рок-н-ролльщика » : десять фильмов Джерарда Батлера
+342	OFC/142.txt		
+345	OFC/145.txt		
+700	newsru/sunna.txt	http://newsru.com/world/20jan2014/sunna.html	Исламские экстремисты взяли на себя ответственность за взрывы в Волгограде. США винят РФ в "утаивании" информации
+701	newsru/duma_time.txt	http://www.newsru.com/russia/20jan2014/duma_time.html	В Госдуму внесен законопроект о возврате россиянам "природного времени" и запрете на сезонный перевод часов
+702	newsru/m_l_king.txt	http://newsru.com/religy/20jan2014/m_l_king.html	В США отмечают 85 лет со дня рождения Мартина Лютера Кинга
+710	lentaru/lentaru016.txt	http://lenta.ru/news/2014/01/16/support/	Иракские экстремисты попросили у народа денег «на джихад»
+711	lentaru/lentaru005.txt	http://lenta.ru/news/2014/01/20/sorcerer/	Односельчане камбоджийского целителя обезглавили его за колдовство
+712	lentaru/lentaru019.txt	http://lenta.ru/news/2014/01/20/guardiola/	Гвардиола назвал Карпину главное отличие «Баварии» от «Спартака»
+713	lentaru/lentaru015.txt	http://lenta.ru/news/2014/01/17/bereal/	Милонов предложил штрафовать за «фейковые» аккаунты в соцсетях
+714	lentaru/lentaru018.txt	http://lenta.ru/news/2014/01/17/ghost/	Нигериец решил спастись от призрака в Израиле
+715	lentaru/lentaru006.txt	http://lenta.ru/news/2014/01/20/sorcerer/	Активисты в Киеве взялись за строительство катапульты
+716	lentaru/lentaru007.txt	http://lenta.ru/news/2014/01/20/mirzaev/	Приговор Мирзаеву обжаловали в Верховном суде
+717	lentaru/lentaru010.txt	http://lenta.ru/news/2014/01/20/rosetta/	Зонд «Розетта» выйдет из гибернации
+718	lentaru/lentaru014.txt	http://lenta.ru/news/2014/01/20/damon/	Деймон Албарн назвал дату выхода сольного альбома
+719	lentaru/lentaru008.txt	http://lenta.ru/news/2014/01/20/stop/	Минюст приостановил регистрацию «Народного альянса» Навального
+720	lentaru/lentaru011.txt	http://lenta.ru/news/2014/01/20/durov/	Пресс-секретарь «ВКонтакте» опроверг слух об уходе Павла Дурова
+721	lentaru/lentaru012.txt	http://lenta.ru/news/2014/01/20/baboom/	Ким Дотком запустит «справедливый» музыкальный сервис
+722	lentaru/lentaru003.txt	http://lenta.ru/news/2014/01/20/banmusic/	Радикальные исламисты запретили в Сирии музыку и курение
+723	lentaru/lentaru013.txt	http://lenta.ru/news/2014/01/20/mission/	Евросоюз согласился на гуманитарное вторжение в ЦАР
+724	lentaru/lentaru001.txt	http://lenta.ru/news/2014/01/20/europe/	ЕС призвал Украину отменить резонансные законы
+725	lentaru/lentaru002.txt	http://lenta.ru/news/2014/01/20/us/	Кличко объявили резидентом США
+726	lentaru/lentaru020.txt	http://lenta.ru/news/2014/01/17/weap/	Россию обвинили в поставках беспилотников и бронетехники в Сирию
+727	lentaru/lentaru004.txt	http://lenta.ru/news/2014/01/20/sucessor/	Ким Чен Ын нашел замену казненному дяде
+728	lentaru/lentaru017.txt	http://lenta.ru/news/2014/01/20/camel/	В Нью-Джерси умер верблюд-предсказатель
+729	lentaru/lentaru009.txt	http://lenta.ru/news/2014/01/20/appear/	Мугабе развеял слухи о своей смерти
+730	libru/kowalewskij.txt	http://lib.ru/ZHURNAL/kowalewskij.txt 	Игорь Ковалевский. Пятница, 13-е число
+731	libru/ermolaew2.txt	http://lib.ru/ZHURNAL/ermolaew2.txt	Тимофей Ермолаев. Рассказ про комсомолку Свету
+732	libru/ufo.txt	http://lib.ru/ZHURNAL/ufo.txt	Владимир Маруцкий. UFO: Enemy Unknown
+733	libru/filippow.txt	http://lib.ru/ZHURNAL/filippow.txt	Вадим Филиппов. Вор
+734	libru/kolobkowa.txt	http://lib.ru/ZHURNAL/kolobkowa.txt	Анна Колобкова. Бег
+735	libru/lyalin2.txt	http://lib.ru/ZHURNAL/lyalin2.txt	Дмитрий Лялин. Цветы для Джульетты
+736	libru/boldyrewae.txt	http://lib.ru/ZHURNAL/boldyrewae.txt	Елена Болдырева. Моя трудная жизнь
+737	libru/maslov.txt	http://lib.ru/ZHURNAL/maslov.txt	Роман Маслов. Малмок
+738	libru/ugrumowa.txt	http://lib.ru/ZHURNAL/ugrumowa.txt	Виктория Угрюмова. Саксофонист
+739	libru/yaglov.txt	http://lib.ru/ZHURNAL/yaglov.txt	А.Яглов. Леший

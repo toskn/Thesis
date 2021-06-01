@@ -28,8 +28,7 @@ The major park of future work is the implementation of `rubert` to the initial m
 
 ## Setup
 * Install python3 requirements: `pip install -r requirements.txt`
-* `import os
-os.environ['data_dir'] = "./data"`
+* `import os os.environ['data_dir'] = "./data"`
 * `./setup_all.sh`: This builds the custom kernels
 
 ## Pretrained Coreference Models
